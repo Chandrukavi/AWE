@@ -1,0 +1,648 @@
+@media only screen and (max-width: 1100px) {
+  header nav ul {
+    padding-left: 330px;
+  }
+  .intro-text .wapper .cta-img-flex h1 {
+    font-size: 160px;
+  }
+  .image-desgin .cta-img-dp .dpy-img {
+    width: 900px;
+  }
+  .cta-line {
+    width: 1030px;
+    margin-left: 60px;
+  }
+  .poster-desgin .cta-poster p {
+    width: 900px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section {
+    margin-left: 40px;
+    width: 1000px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section .cta-question p {
+    font-size: 60px;
+    margin-left: 120px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .banner-item-img2 .item-img2 {
+    width: 450px;
+    height: 500px;
+    padding-right: 60px;
+  }
+  .line-hr {
+    width: 1030px;
+    margin-left: 60px;
+  }
+  .poster-flex .poster-text-flex .poster-text-1 {
+    width: 1000px;
+    margin-left: 60px;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 .cta-banner-img .banner-img {
+    padding-left: 10px;
+    width: 450px;
+  }
+  .Footer-line {
+    width: 1030px;
+    margin-left: 60px;
+  }
+  .section-divide-line {
+    width: 1030px;
+    margin-left: 60px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .banner-item-img2 .item-img2 {
+    width: 430px;
+    padding-right: 40px;
+  }
+}
+@media only screen and (max-width: 760px) {
+  header nav ul {
+    padding-left: 30px;
+  }
+  .intro-text .wapper .cta-text-flex h1 {
+    font-size: 150px;
+    margin-left: 30px;
+  }
+  .intro-text .wapper .cta-text-flex p {
+    font-size: 22px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+  .intro-text .wapper .cta-img-flex .cta-img {
+    width: 160px;
+    height: 160px;
+    margin-left: 20px;
+  }
+  .intro-text .wapper .cta-img-flex h1 {
+    font-size: 90px;
+    color: #FD6B2A;
+    height: 300px;
+    line-height: 170px;
+  }
+  .text-flex .cta-txt-flex .content1 {
+    margin-left: 30px;
+  }
+  .text-flex .cta-txt-flex .content2 {
+    margin-left: 90px;
+  }
+  .image-desgin .cta-img-dp .dpy-img {
+    width: 600px;
+    height: 400px;
+    padding-top: 70px;
+    margin-left: 80px;
+  }
+  .cta-line {
+    width: 710px;
+    margin-left: 30px;
+  }
+  .poster-desgin .cta-poster p {
+    padding-top: 50px;
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 36px;
+    letter-spacing: -0.04em;
+    margin-left: 5px;
+    width: 700px;
+    color: white;
+  }
+  .poster-desgin .content-item-number {
+    padding-right: 150px;
+  }
+  .content-section .section-flex pre {
+    margin-left: 20px;
+  }
+  .content-section .section-flex p {
+    font-size: 34px;
+    padding-left: 40px;
+  }
+  .line-hr {
+    width: 700px;
+    margin-left: 30px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section .cta-question p {
+    font-size: 42px;
+    margin-left: 10px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section .cta-question svg {
+    padding-right: 50px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section {
+    margin-left: 10px;
+    width: 700px;
+  }
+  .wapper-banner .banner-item1 .cta-head .header-txt2 {
+    font-size: 156px;
+    padding-left: 10px;
+  }
+  .poster-flex .poster-text-flex .poster-text-1 {
+    font-size: 52px;
+    width: 700px;
+    margin-left: 30px;
+  }
+  .section-divide-line {
+    width: 700px;
+    margin-left: 30px;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 {
+    display: block;
+  }
+  .wapper-banner .banner-item1 .banner-item2 {
+    display: block;
+  }
+  .footer-content .wapper-cont-flex {
+    display: flex;
+    padding-left: 3px;
+  }
+  .footer-content .content-menu2 {
+    padding-left: 20px;
+  }
+  .footer-content .content-menu1 {
+    padding-left: 20px;
+  }
+  .footer-content .wapper-cont-flex .footer-content-txt p {
+    font-size: 16px;
+  }
+  .footer-content .wapper-cont-flex .footer-content-txt h1 {
+    font-size: 42px;
+  }
+  .Footer-line {
+    width: 700px;
+    margin-left: 30px;
+  }
+  .footer-text .footer-txt2 {
+    font-size: 16px;
+    padding-left: 180px;
+  }
+  .footer-text .footer-txt1 {
+    margin-left: 1px;
+  }
+  .footer-content .footer-head h1 {
+    font-size: 40px;
+    margin-left: 1px;
+  }
+  .poster-desgin .content-item-number .cta-box1 {
+    margin-left: 100px;
+  }
+  .poster-desgin .content-item-number {
+    justify-content: space-evenly;
+  }
+  .footer-content .wapper-cont-flex {
+    display: block;
+  }
+}
+@media only screen and (max-width: 600px) {
+  header nav h1 {
+    padding-left: 10px;
+    font-size: 40px;
+  }
+  header nav ul {
+    padding-left: 10px;
+  }
+  header nav ul li {
+    margin: 10px;
+  }
+  .intro-text .wapper .cta-img-flex h1 {
+    font-size: 60px;
+  }
+  .intro-text .wapper .cta-img-flex .cta-img {
+    width: 100px;
+    height: 100px;
+    padding-top: 30px;
+    margin-left: 50px;
+  }
+  .image-desgin .cta-img-dp .dpy-img {
+    width: 400px;
+    height: 300px;
+    margin-left: 80px;
+  }
+  .cta-line {
+    width: 540px;
+    margin-left: 30px;
+  }
+  .poster-desgin .cta-poster p {
+    font-size: 48px;
+    margin-left: 10px;
+    width: 500px;
+  }
+  .poster-desgin .content-text-flex .cta-text-ct1 {
+    margin-left: 10px;
+  }
+  .poster-desgin .content-text-flex .cta-text-ct2 {
+    font-size: 18px;
+    width: 600px;
+    padding-left: 10px;
+  }
+  .poster-desgin .content-item-number .cta-box1 {
+    margin-left: 280px;
+  }
+  .content-section .section-flex pre {
+    font-size: 22px;
+    margin-left: 1px;
+  }
+  .content-section .section-flex p {
+    font-size: 28px;
+    width: 600px;
+    padding-left: 10px;
+  }
+  .line-hr {
+    width: 540px;
+    margin-left: 30px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section {
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 1px;
+    width: 550px;
+    border-bottom: 2px solid black;
+  }
+  .FAQ-accordion .wrapper .FAQ-section .cta-question svg {
+    margin-right: 100px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section .cta-question p {
+    font-size: 30px;
+    margin-left: 5px;
+  }
+  .section-divide-line {
+    width: 540px;
+    margin-left: 30px;
+  }
+  .wapper-banner .banner-item1 .cta-head .header-txt2 {
+    font-size: 110px;
+    padding-left: 10px;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 .cta-cont .cta-banner-txt2 {
+    font-size: 38px;
+    width: 490px;
+    padding-left: 1px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .cta-cont-banner2 .cta-banner2-txt2 {
+    font-size: 38px;
+    width: 490px;
+    padding-left: 1px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .banner-item-img2 .item-img2 {
+    padding-left: 50px;
+  }
+  .poster-flex .poster-text-flex .poster-text-1 {
+    font-size: 36px;
+    width: 530px;
+    margin-left: 10px;
+  }
+  .content-pra-main .content-pra p {
+    font-size: 100px;
+  }
+  .footer-content .wapper-cont-flex {
+    padding-left: 5px;
+  }
+  .footer-content .wapper-cont-flex {
+    display: block;
+  }
+  .footer-content .flex-list {
+    padding-top: 30px;
+  }
+  .footer-content-txt {
+    padding-left: 55px;
+  }
+  .Footer-line {
+    width: 540px;
+    margin-left: 30px;
+  }
+}
+@media only screen and (max-width: 500px) {
+  header nav h1 {
+    display: none;
+  }
+  .cta-line {
+    display: none;
+  }
+  .image-desgin .cta-img-dp .dpy-img {
+    margin-left: 40px;
+  }
+  .intro-text .wapper .cta-text-flex {
+    display: block;
+  }
+  .intro-text .wapper .cta-text-flex h1 {
+    font-size: 100px;
+    margin-left: 0px;
+  }
+  .intro-text .wapper .cta-text-flex p {
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+  .intro-text .wapper .cta-img-flex .cta-img {
+    display: none;
+  }
+  .intro-text .wapper .cta-img-flex h1 {
+    text-align: center;
+    margin-left: 0px;
+  }
+  .text-flex .cta-txt-flex .content2 {
+    margin-left: 40px;
+  }
+  .poster-desgin .content-item-number {
+    display: block;
+  }
+  .poster-desgin .cta-poster p {
+    font-size: 32px;
+    margin-left: 40px;
+    width: 400px;
+  }
+  .poster-desgin .content-text-flex {
+    display: block;
+  }
+  .poster-desgin .content-text-flex .cta-text-ct2 {
+    font-size: 14px;
+    width: 400px;
+    padding-left: 10px;
+  }
+  .footer-content-txt {
+    padding-left: 0px;
+  }
+  .text-flex .cta-txt-flex {
+    display: block;
+  }
+  .poster-desgin .content-item-number .cta-box1 {
+    margin-left: 0px;
+  }
+  .content-section .section-flex {
+    display: block;
+  }
+  .content-section .section-flex p {
+    font-size: 32px;
+    width: 420px;
+    padding-left: 0px;
+    padding-top: 10px;
+  }
+  .wapper-banner .banner-item1 .cta-head .header-txt2 {
+    font-size: 90px;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 .cta-cont .cta-banner-txt2 {
+    font-size: 43px;
+    width: 430px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .cta-cont-banner2 .cta-banner2-txt2 {
+    font-size: 43px;
+    width: 430px;
+    padding-left: 0px;
+  }
+  .line-hr {
+    display: none;
+  }
+  .FAQ-accordion .wrapper .FAQ-section {
+    margin-left: 0px;
+    width: 450px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section .cta-question p {
+    font-size: 32px;
+    margin-left: 0px;
+    padding-left: 40px;
+    width: 450px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section .cta-question svg {
+    padding-left: 0px;
+  }
+  .section-divide-line {
+    display: none;
+  }
+  .image-desgin .cta-img-dp .dpy-img {
+    margin-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 .cta-cont .sub-cont {
+    display: block;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 .cta-cont .sub-cont .sub-cont-2 {
+    padding-left: 30px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .cta-cont-banner2 .sub-cont {
+    display: block;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .cta-cont-banner2 .sub-cont .sub-cont-2 {
+    padding-left: 30px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .banner-item-img2 .item-img2 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .poster-flex .poster-text-flex .poster-text-1 {
+    font-size: 32px;
+    width: 400px;
+    margin-left: 0px;
+  }
+  .Footer-line {
+    display: none;
+  }
+  .footer-text .footer-txt2 {
+    font-size: 16px;
+    padding-left: 80px;
+  }
+}
+@media only screen and (max-width: 450px) {
+  header nav h1 {
+    display: inline;
+    padding-top: 1px;
+  }
+  header .ul {
+    display: block;
+    position: absolute;
+    top: -300px;
+  }
+  header header nav .navbar-toggle {
+    margin-top: 25px;
+  }
+  header .navbar-toggle {
+    display: inline !important;
+  }
+  header .active {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    padding: 10px;
+    background: white;
+  }
+  header .in-active {
+    display: none;
+  }
+  .image-desgin .cta-img-dp .dpy-img {
+    width: 350px;
+    height: 350px;
+    margin-left: 20px;
+  }
+  .poster-desgin .cta-poster p {
+    font-size: 46px;
+    margin-left: 0px;
+    width: 300px;
+  }
+  .wapper-banner .banner-item1 .cta-head .header-txt2 {
+    font-size: 70px;
+    padding-left: 40px;
+  }
+  .poster-desgin .content-text-flex .cta-text-ct2 {
+    font-size: 12px;
+    width: 350px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 .cta-banner-img .banner-img {
+    width: 350px;
+    height: 350px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .banner-item-img2 .item-img2 {
+    width: 350px;
+    height: 350px;
+    padding-left: 0px;
+  }
+  .content-pra-main .content-pra p {
+    font-size: 80px;
+  }
+  .content-section .section-flex p {
+    font-size: 22px;
+    width: 380px;
+    padding-left: 0px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section {
+    margin-top: 30px;
+    margin-left: 0px;
+    width: 350px;
+  }
+  .FAQ-accordion .wrapper .FAQ-section .cta-question p {
+    font-size: 22px;
+    margin-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 .cta-cont .cta-banner-txt2 {
+    font-size: 36px;
+    width: 350px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .cta-cont-banner2 .cta-banner2-txt2 {
+    font-size: 36px;
+    width: 350px;
+    padding-left: 0px;
+  }
+  .footer-content .flex-list .content-menu2 {
+    padding-left: 30px;
+  }
+  #svg {
+    height: -moz-max-content;
+    height: max-content;
+    width: auto;
+  }
+  .FAQ-accordion .wrapper .FAQ-section .cta-question svg {
+    margin-right: 0%;
+    margin-top: 0%;
+  }
+  .FAQ-accordion .wrapper .FAQ-section .cta-question svg {
+    padding-right: 0%;
+  }
+  .FAQ-accordion .wrapper .FAQ-section {
+    width: -webkit-fill-available;
+  }
+}
+@media only screen and (max-width: 380px) {
+  .intro-text .wapper .cta-text-flex h1 {
+    font-size: 100px;
+  }
+  .intro-text .wapper .cta-text-flex p {
+    font-size: 12px;
+    width: 300px;
+  }
+  .intro-text .wapper .cta-img-flex h1 {
+    font-size: 50px;
+    height: 150px;
+  }
+  .text-flex .cta-txt-flex .content1 {
+    margin-left: 0px;
+  }
+  .text-flex .cta-txt-flex .content2 {
+    margin-left: 0px;
+  }
+  .image-desgin .cta-img-dp .dpy-img {
+    width: 280px;
+    height: 300px;
+    margin-left: 10px;
+  }
+  .poster-desgin .cta-poster p {
+    font-size: 26px;
+    margin-left: 0px;
+    width: 300px;
+  }
+  .poster-desgin .content-text-flex .cta-text-ct1 {
+    padding-top: 30px;
+  }
+  .poster-desgin .content-text-flex .cta-text-ct2 {
+    font-size: 12px;
+    width: 300px;
+    padding-left: 0px;
+    padding-top: 30px;
+  }
+  .content-section .section-flex p {
+    font-size: 18px;
+    width: 290px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .cta-head .header-txt2 {
+    font-size: 50px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 .cta-banner-img .banner-img {
+    width: 290px;
+    height: 300px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 .cta-cont .cta-banner-txt2 {
+    font-size: 20px;
+    width: 290px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item-flex1 .cta-cont .cta-banner-txt3 {
+    font-size: 13px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .cta-cont-banner2 .cta-banner2-txt2 {
+    font-size: 20px;
+    width: 290px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .cta-cont-banner2 .cta-banner2-txt3 {
+    font-size: 13px;
+    padding-left: 0px;
+  }
+  .wapper-banner .banner-item1 .banner-item2 .banner-item-img2 .item-img2 {
+    width: 280px;
+    height: 300px;
+    padding-right: 0px;
+  }
+  .poster-flex .poster-text-flex .poster-text-1 {
+    font-size: 24px;
+    width: 280px;
+    margin-left: 0px;
+  }
+  .content-pra-main .content-pra p {
+    font-size: 50px;
+  }
+  .content-pra-main {
+    padding-top: 80px;
+    padding-bottom: 30px;
+  }
+  .footer-content .footer-head {
+    margin-left: 0px;
+    margin-top: 30px;
+  }
+  .footer-content .wapper-cont-flex .footer-content-txt h1 {
+    font-size: 24px;
+  }
+  .footer-content .wapper-cont-flex .footer-content-txt .cta-btn {
+    margin-left: 0px;
+  }
+  .footer-content .flex-list .content-menu1 {
+    padding-left: 0px;
+  }
+  .footer-text .flex-footer-text {
+    display: block;
+  }
+  .footer-text .footer-txt2 {
+    padding-left: 0px;
+  }
+  .footer-text .footer-txt3 {
+    padding-left: 0px;
+  }
+}/*# sourceMappingURL=style2.css.map */
